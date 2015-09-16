@@ -1,0 +1,26 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "description": "Get a Random starwar-name",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elitenomad/starwars-names.git"
+  },
+  "keywords": [
+    "starwars-names",
+    "random"
+  ],
+  "author": "Pranava S Balugari <stalin.pranava@gmail.com> (https://github.com/elitenomad/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elitenomad/starwars-names/issues"
+  },
+  "homepage": "https://github.com/elitenomad/starwars-names#readme",
+  "dependencies": {
+    "unique-random-array": "^1.0.0"
+  }
+}
